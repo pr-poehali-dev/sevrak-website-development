@@ -85,12 +85,14 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="bg-primary text-primary-foreground p-2 rounded-lg">
-                <Icon name="Truck" size={24} />
-              </div>
+              <img 
+                src="/img/6bf43e1a-2490-4958-bbe7-0b4c68d50cb5.jpg"
+                alt="SEVTRAK Логотип"
+                className="h-12 w-12 object-contain"
+              />
               <div>
                 <h1 className="text-2xl font-bold text-primary">СЕВТРАК</h1>
-                <p className="text-sm text-muted-foreground">Транспортная компания</p>
+                <p className="text-sm text-muted-foreground font-medium">Ваш груз — наша миссия</p>
               </div>
             </div>
             <nav className="hidden md:flex items-center space-x-6">
@@ -113,6 +115,11 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
+              <div className="mb-4">
+                <p className="text-primary font-semibold text-lg uppercase tracking-wider">
+                  Ваш груз — наша миссия
+                </p>
+              </div>
               <h2 className="text-5xl font-bold text-foreground mb-6">
                 Надежные грузоперевозки по всей России
               </h2>
@@ -499,17 +506,19 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center space-x-3 mb-4">
-                <div className="bg-primary text-primary-foreground p-2 rounded-lg">
-                  <Icon name="Truck" size={24} />
-                </div>
+                <img 
+                  src="/img/6bf43e1a-2490-4958-bbe7-0b4c68d50cb5.jpg"
+                  alt="SEVTRAK Логотип"
+                  className="h-10 w-10 object-contain"
+                />
                 <div>
                   <h3 className="text-xl font-bold">СЕВТРАК</h3>
-                  <p className="text-sm opacity-75">Транспортная компания</p>
+                  <p className="text-sm opacity-75">Ваш груз — наша миссия</p>
                 </div>
               </div>
               <p className="text-sm opacity-75">
                 Надежные грузоперевозки по всей России. 
-                Ваш груз в надежных руках.
+                Доверьте нам ваш самый важный груз.
               </p>
             </div>
             <div>

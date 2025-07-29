@@ -147,8 +147,8 @@ const Index = () => {
             </div>
             <div className="relative">
               <img 
-                src="/img/2dfa7ce2-4fba-4984-8a99-85f32de9dddc.jpg"
-                alt="СЕВТРАК - Транспортная компания"
+                src="/img/e8525560-6917-420c-b2d6-965e0376805d.jpg"
+                alt="SEVTRAK - Транспортная компания"
                 className="rounded-2xl shadow-2xl w-full"
               />
               <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-lg">

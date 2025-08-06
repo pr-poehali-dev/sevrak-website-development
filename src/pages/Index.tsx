@@ -543,7 +543,7 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Контакты</h4>
               <div className="space-y-2 text-sm opacity-75">
                 <div>+7 (985) 4011190</div>
-                <div>info@sevtrak.ru</div>
+                <div>gruzovik-2024@mail.ru</div>
                 <div>г. Севастополь, ул. Рыбаков 7</div>
               </div>
             </div>

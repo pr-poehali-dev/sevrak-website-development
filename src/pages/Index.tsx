@@ -542,7 +542,7 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <div className="space-y-2 text-sm opacity-75">
-                <div>+7 (495) 123-45-67</div>
+                <div>+7 (985) 4011190</div>
                 <div>info@sevtrak.ru</div>
                 <div>г. Москва, ул. Логистическая, 25</div>
               </div>
